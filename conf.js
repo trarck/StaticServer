@@ -1,0 +1,1 @@
+exports.conf={	local:{		port:8012,        root:"./www/",		routeMaps:{					}	},    www:{        port:8080,        root:"./www/"    },};
